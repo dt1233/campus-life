@@ -63,41 +63,10 @@
 
 ---
 
-## 📋 Kurulum Adımları
-Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
-
-### Gereksinimler
-- Java 21
-- Node.js 18+
-- PostgreSQL 18
-- Maven
-
-### Veritabanı Ayarları
-PostgreSQL üzerinde `campus_life` adında bir veritabanı oluşturun ve `src/main/resources/application.yml` (veya `application.properties`) içerisindeki veritabanı url, kullanıcı adı ve şifre kısımlarını kendi sisteminize göre güncelleyin. *(Not: Tablolar Flyway sayesinde uygulama çalışınca otomatik oluşturulacaktır.)*
-
-### Backend Çalıştırma
-```bash
-# Proje dizinine girin
-cd campus_life
-# Maven wrapper ile Spring Boot uygulamasını başlatın
-./mvnw spring-boot:run
-```
-
-### Frontend Çalıştırma
-```bash
-# Frontend dizinine girin
-cd frontend
-# Bağımlılıkları yükleyin
-npm install
-# React geliştirme sunucusunu başlatın
-npm start
-```
-
----
-
 <div align="center">
   <p><i>Bu proje, İnönü Üniversitesi kampüs yaşantısını iyileştirmek amacıyla Betsan Teknoloji tarafından geliştirilmiştir.</i></p>
 </div>
+
 
 
 
