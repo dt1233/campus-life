@@ -97,6 +97,7 @@ npm start
 ---
 
 <div align="center">
-  <p><i>Bu proje, İnönü Üniversitesi kampüs yaşantısını iyileştirmek amacıyla geliştirilmiştir.</i></p>
+  <p><i>Bu proje, İnönü Üniversitesi kampüs yaşantısını iyileştirmek amacıyla Betsan Teknoloji tarafından geliştirilmiştir.</i></p>
 </div>
+
 
