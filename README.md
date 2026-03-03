@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150/2c3e50/fbb81a?text=CL" alt="Campus Life Logo" width="120" />
   <h1>🎓 Campus Life</h1>
   <p><b>İnönü Üniversitesi için Geliştirilmiş Modern Kampüs Yaşam Platformu</b></p>
   
@@ -99,5 +98,6 @@ npm start
 <div align="center">
   <p><i>Bu proje, İnönü Üniversitesi kampüs yaşantısını iyileştirmek amacıyla Betsan Teknoloji tarafından geliştirilmiştir.</i></p>
 </div>
+
 
 
