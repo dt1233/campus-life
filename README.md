@@ -65,7 +65,9 @@
 
 <div align="center">
   <p><i>Bu proje, İnönü Üniversitesi kampüs yaşantısını iyileştirmek amacıyla <link>Betsan Teknoloji</link> tarafından geliştirilmiştir.</i></p>
+  <p>betsanglobal.com</p>
 </div>
+
 
 
 
