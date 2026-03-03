@@ -58,8 +58,10 @@
 
 ---
 
-## 📸 Ekran Görüntüleri
-*İstenilmesi durumunda iletilecektir.*
+## 📥 Proje Demoları ve Görseller
+Gizlilik politikaları gereği sistemin içerisinden anlık ekran görüntüleri bu genel dokümantasyonda direkt olarak yer almamaktadır.
+
+> 📌 **İletişim:** Optiplan'in algoritma işleyişi, teknik özellikleri, detaylı veri şeması, canlı proje test linkleri ve arayüz görselleri talep edilmesi durumunda karşı tarafa doğrudan PDF ve sunum formatında iletilecektir.
 
 ---
 
@@ -67,6 +69,7 @@
   <p><i>Bu proje, İnönü Üniversitesi kampüs yaşantısını iyileştirmek amacıyla <link>Betsan Teknoloji</link> tarafından geliştirilmiştir.</i></p>
   <p>betsanglobal.com</p>
 </div>
+
 
 
 
